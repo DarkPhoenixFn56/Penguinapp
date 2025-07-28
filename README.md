@@ -19,7 +19,7 @@ This app was inspired by [Data Professor’s](https://youtu.be/JwSS70SZdyM) YouT
 
 ## 🛠️ How to Run Locally
 ```bash
-git clone https://github.com/yourusername/penguin-classifier-app.git
+git clone https://github.com/DarkPhoenixFn56/Penguinapp.git
 cd penguin-classifier-app
 pip install -r requirements.txt
 streamlit run app.py
